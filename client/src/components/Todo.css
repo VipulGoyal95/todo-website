@@ -1,0 +1,22 @@
+.list-container{
+    position: relative;
+    width: 88%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    margin: 5px 0px;
+    background-color: #131A26;
+}
+
+.textbox{
+    cursor: pointer;
+    margin-left: 15px;
+    width: 850px;
+
+}
+
+.textbox.is-complete{
+    text-decoration: line-through;
+}
+

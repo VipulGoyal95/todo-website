@@ -1,0 +1,13 @@
+.Complete-container{
+    width: 18px;
+    height: 18px;
+    background-color: #20283E;
+    margin-left: 6px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.Complete-container.is-complete{
+    background-color: #ff00f2;
+}
+  
